@@ -1,6 +1,8 @@
 # Movement in Squares
 
-## Op art video mirror.
+## Op art video mirror
+
+<iframe src="http://player.vimeo.com/video/35401268?title=0&amp;byline=0&amp;portrait=0&amp;color=59a5d1" width="580" height="326" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Distorts a checkerboard pattern based on the subject's movement in space. Inspired by [Bridget Riley](http://en.wikipedia.org/wiki/Bridget_Riley).
 
